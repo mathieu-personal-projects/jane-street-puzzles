@@ -9,3 +9,8 @@ Much like his morning routine, every afternoon he wakes up from his nap on a whi
 This afternoon his truncated tetrahedral homeland bounced through the very same kitchen with an infinite regular hexagonal floor tiling consisting of black and white hexagons, shown above on the right. In this tiling every white hexagon is surrounded by alternating black and white hexagons, and black hexagons are surrounded by six white hexagons. Andy fell off the ball and woke up on a white hexagon. He didn’t notice any change in his surroundings, and goes about his normal amble.
 
 Throughout his walk, Andy remembers the turns he’s taken. Let p be the probability that by the end of his afternoon amble on this new land he has discovered that he is no longer on the truncated tetrahedral sphere. **Find p in exact terms**.
+
+## Solution
+
+![proof](../../images/andy-afternoon-amble/proof.png)
+
